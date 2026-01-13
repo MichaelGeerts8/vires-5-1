@@ -1,0 +1,45 @@
+# Visual Studio
+.vs/
+*.vsidx
+*.wsuo
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.temp
+.tmp.driveupload/
+*~
+*.bak
+*.swp
+
+# Error logs
+*_Error.txt
+___All_Errors.txt
+
+# Configuration files
+my.ini
+toegang.txt
+
+# Alternative/backup files
+Alternatieve*.txt
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
